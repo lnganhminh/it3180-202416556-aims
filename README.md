@@ -4,9 +4,9 @@
 
 [![CI](https://github.com/lnganhminh/it3180-202416556-aims-new/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/lnganhminh/it3180-202416556-aims-new/actions/workflows/ci.yml)
 
-| Sinh viên | Mã số sinh viên | Phạm vi |
+| Sinh viên | Mã số sinh viên |
 |---|---|---|
-| **Lường Nguyễn Anh Minh** | **202416556** | Lab 01–05 · Nhập môn Công nghệ phần mềm |
+| **Lường Nguyễn Anh Minh** | **202416556** |
 
 ## 1. Giới thiệu chương trình
 
