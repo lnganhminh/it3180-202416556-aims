@@ -15,7 +15,7 @@ def create_demo_cart():
 
 def main():
     cart = create_demo_cart()
-    print(f"Total cost: {cart.total_cost():.2f} $")
+    cart.print_cart()
 
 if __name__ == "__main__":
     main()

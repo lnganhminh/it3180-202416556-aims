@@ -13,6 +13,7 @@ Tổng tiền mẫu: `Total cost: 63.89 $`.
 
 ## Tài liệu từng Lab
 - [Lab 01](docs/answers-lab01.md) — nhánh `release/lab01`
+- [Lab 02](docs/answers-lab02.md) — nhánh `release/lab02`
 
 ## Kiểm thử
 Từ Lab 03, chạy `python -m unittest discover -s tests -v`.
