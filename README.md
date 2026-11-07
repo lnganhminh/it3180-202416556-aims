@@ -4,9 +4,8 @@
 
 [![CI](https://github.com/lnganhminh/it3180-202416556-aims-new/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/lnganhminh/it3180-202416556-aims-new/actions/workflows/ci.yml)
 
-| Sinh viên | Mã số sinh viên |
-|---|---|---|
-| **Lường Nguyễn Anh Minh** | **202416556** |
+
+Lường Nguyễn Anh Minh MSSV:202416556
 
 ## 1. Giới thiệu chương trình
 
